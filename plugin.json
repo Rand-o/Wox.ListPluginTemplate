@@ -1,0 +1,12 @@
+{
+    "ID":"230B9F993D234183B1EE82B79B450A80",
+    "ActionKeyword":"pro",
+    "Name":"Property IP by Name",
+    "Description":"Find what MGM Property IP Scheme based on Name",
+    "Author":"Rando",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/Rand-o",
+    "IcoPath":"Images\\alias.png",
+    "ExecuteFileName":"main.py"
+}
